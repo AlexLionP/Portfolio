@@ -1,18 +1,20 @@
 h1{
-    color: rgb(0, 35, 100);
+    color: rgb(12, 0, 68);
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    background-color: #3559E0;
+    background: linear-gradient(#0F2167,#3c98c0);
+
+
 }
 div{
-    background-color: #3c98c0;
-    padding: 10px 20px 30px 40px;
+    padding: 10px 20px 10px 20px;
     border: 3px solid darkgreen;
-    margin: 20px 60px 10px 50px;
-    background: linear-gradient(#0F2167,#3c98c0);
+    margin: 50px 50px 50px 50px;
+    background-color: #3559E0;
+    content: cyan;
 }
 h3{
     color: #0F2167;
@@ -38,8 +40,8 @@ a:visited{
 }
 
 .main-container{
-    background-color: rgb(205, 50, 146);
-    width: 50%;
+    background-color: rgb(89, 192, 233);
+    width: 89%;
     height: 30%;
 }
 
