@@ -4,5 +4,51 @@ h1{
 }
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: aquamarine;
+    text-align: center;
+    background-color: #3559E0;
+}
+div{
+    background-color: #3c98c0;
+    padding: 10px 20px 30px 40px;
+    border: 3px solid darkgreen;
+    margin: 20px 60px 10px 50px;
+    background: linear-gradient(#0F2167,#3c98c0);
+}
+h3{
+    color: #0F2167;
+}
+
+h1{
+    font-size: 2em;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+    font-size: 1.5em;
+    border: 2px dotted black;
+}
+
+img{
+    border-radius: 100px;
+}
+
+a:visited{
+    color: red;
+}
+
+.main-container{
+    background-color: rgb(205, 50, 146);
+    width: 50%;
+    height: 30%;
+}
+
+.links{
+    color: yellow;
+    text-decoration: none;
+
+}
+
+#u-list{
+        list-style-type: none;
 }
