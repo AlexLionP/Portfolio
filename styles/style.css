@@ -6,7 +6,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background: linear-gradient(#0F2167,#3c98c0);
-    cursor: url("./style/espada.png"),auto;
+    cursor: url('./style/espada6.png'), auto;
 
 
 }
@@ -41,7 +41,7 @@ a:visited{
 }
 
 .main-container{
-    background-color: rgb(89, 192, 233);
+    background-color: rgb(89, 233, 166);
     width: 89%;
     height: 30%;
 }
